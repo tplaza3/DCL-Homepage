@@ -197,18 +197,64 @@ header li{
 }
 
 footer{
+
 	background: #1C0699;
 	padding: 40px 20px 200px 40px;
+	width:1250;
 	
 	
 	
 }
 
 footer li{
-  width: 20%;
-  float: left;
+	display: inline-block;
+	padding: 0 0 0 0;
+}
+
+.lists li{
+	width: 20%;
+	float: left;
+	
 	
 }
+
+
+#list1{
+	float:left; 
+	height: 100px;
+	
+
+}
+
+#list2{
+	float:left; 
+	height: 100px;
+	
+
+
+}
+
+#list3{
+	float:left; 
+	height: 100px;
+	
+
+
+}
+
+#list4{
+	float:left; 
+	height: 100px;
+	
+	
+}
+
+#list5{
+	float:left; 
+	height: 100px;
+}
+
+
 
 #logo2{
   float: left;
@@ -221,15 +267,21 @@ footer li{
 }
 
 #social{
-
-	clear: both;
-	
-	
-	
+	float: left;
+	padding: 30px 0 0 0;
+	text-align: left;	
 	
 }
 
+#connect{
+	float: right;
+	padding: 30px 0 0 0;
+}
 
+.bottom {
+	
+	padding: 0 0 0 0;
+}
 
 
 
