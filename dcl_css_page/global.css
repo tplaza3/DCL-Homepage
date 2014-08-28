@@ -191,12 +191,38 @@ header li{
 	clear: both;
 	text-align: center;
 	background: #275599;
+	padding: 50px;
 
 	
 }
 
 footer{
 	background: #1C0699;
+	
+	
+	
+}
+
+footer li{
+  width: 20%;
+  float: left;
+	
+}
+
+#logo2{
+  float: left;
+  background: url("http://dclcorp.com/wp-content/themes/grainandmortar/images/logo.png");
+  background-repeat: no-repeat;
+	background-size: 60% auto;
+	width: 20%;
+	padding: 90px 0 0 0;
+	
+}
+
+#links3{
+	
+	
+	
 	
 }
 
