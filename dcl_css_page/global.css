@@ -46,6 +46,8 @@ header li{
 	background: purple;
 	margin: 0 10px 0 10px;
 	text-align: center;
+	position: relative;
+	
 }
 
 #fulfillment li{
@@ -107,8 +109,9 @@ header li{
 #tenants{
 	width: 1250px;
 	clear: both;
-	background: #3356B0;
 
+	padding: 20px 0 0 0;
+	position: relative;
 }
 
 #tenant1{
@@ -167,6 +170,7 @@ header li{
 	width: 1250px;
 	clear: both;
 	text-align: center;
+	
 }
 
 #test1{
